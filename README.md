@@ -24,3 +24,4 @@ docker compose exec app python manage.py migrate
 ```shell
 docker compose down
 ```
+Запуск на хероку при помощи докера сделаем так по пути этого туториала: https://testdriven.io/blog/deploying-django-to-heroku-with-docker/
